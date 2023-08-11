@@ -1,5 +1,8 @@
+#apps-logo{
+    position: relative;
+    top: -5px; 
 
-
+}
 
 
 
@@ -10,11 +13,14 @@ nav ul li {
     list-style: none;
     margin: 10px;
     line-height: 10px;
-    }  
+    font: 90% sans-serif;
+}
+
+      
 
 #logo{
     position: relative;
-    top: 40px; 
-    left: 40px;
-    width: 50%;
-    }
+    top: 70px; 
+    left: 17.5%;
+    width: 65%;
+}
